@@ -1,0 +1,36 @@
+.secFooter{
+    background-color: #2C3E50;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.lastFooter{
+    background-color:#0D1318;
+}
+.icons-social a{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: #1e202b;
+    margin: 0px 5px;
+   transition: 0.5s;
+}
+.icons-social a:hover{
+  background-color: #009AD8;
+  color: #fff;
+  
+}
+.icons-social i{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+   line-height: 40px;
+}
+.aboutFreeLancer p{
+    font-size: 15px;
+}
+@media(max-width:500px){
+    .web{
+        margin: 35px 0px;
+    }
+}

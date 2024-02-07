@@ -1,0 +1,11 @@
+.secAbout{
+    background-color: #1ABC9C;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.start{
+    text-align: center;
+}

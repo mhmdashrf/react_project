@@ -1,0 +1,19 @@
+
+
+.buttonSend{
+    padding: 10px;
+    border: none;
+    background-color:#1ABC9C;
+    color: #fff;
+    border-radius: 10px;
+}
+.buttonSend:hover{
+    background-color:#087f67 ;
+}
+form input{
+ border: 0;
+ outline: none;
+ border-bottom: 1px solid #ccc;
+ /* margin-bottom: 20px; */
+
+}

@@ -1,0 +1,17 @@
+.homeSection{
+    background-color: #1ABC9C;
+}
+.homeH1{
+    font-size: 50px;
+}
+.parentImg{
+    width: 25%;
+}
+@media(max-width:500px){
+    .homeH1{
+        font-size: 25px;
+    }
+    .parentImg{
+        width: 40%;
+    }
+}
